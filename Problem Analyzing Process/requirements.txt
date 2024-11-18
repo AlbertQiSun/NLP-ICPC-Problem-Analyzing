@@ -1,0 +1,6 @@
+openai
+pydantic
+base64
+os
+json
+matplotlib
